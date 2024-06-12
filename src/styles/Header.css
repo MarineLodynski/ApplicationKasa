@@ -1,7 +1,11 @@
 .kasa-header {
     display:flex;
-    justify-content: center;
+    justify-content: space-between;
     width:1240px;
     height:68px;
-    
+}
+
+.kasa-header li {
+    text-decoration: none;
+    color:black;
 }
