@@ -1,0 +1,28 @@
+.kasa-header {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width:1240px;
+    height:68px;
+}
+
+.kasa-nav {
+    display:flex;
+    gap:40px;
+}
+
+.kasa-nav li {
+    list-style: none; 
+    
+}
+
+.kasa-nav a {
+    text-decoration: none;
+    color:black;
+    font-size:24px;
+    font-family:Montserrat;
+}
+
+.kasa-nav a :hover{
+    text-decoration:underline;
+}
