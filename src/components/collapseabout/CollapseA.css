@@ -1,0 +1,25 @@
+.collapse-about {
+    font-family: Montserrat;
+    background-color: #F6F6F6;
+    display:flex;
+    flex-direction: column;
+    max-width: 1000px;
+    margin:0 auto;
+}
+
+.rubriques {
+    list-style: none; 
+    font-size:28px;
+}
+
+.notions {
+    background-color: #FF6060;
+    color: white;
+    padding:10px 0px 10px 20px;
+    border-radius:5px;
+}
+
+.rubriques p {
+    font-size:24px;
+    padding-left:25px;
+}

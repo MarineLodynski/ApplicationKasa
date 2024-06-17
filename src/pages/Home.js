@@ -7,8 +7,8 @@ function Home () {
     return (
         <div>
             <Header />
-             <BannerHome />
-             <Cards />
+            <BannerHome />
+            <Cards />
             <Footer />
         </div>
     )

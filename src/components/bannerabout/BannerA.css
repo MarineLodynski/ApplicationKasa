@@ -1,0 +1,13 @@
+.banner-banner {
+    margin-bottom:30px;
+}
+
+.home-banner{
+    margin-top:30px;
+    margin-bottom:30px;
+    height:233px;
+    display: flex;
+    align-self: center; 
+    max-width: 1240px;
+    margin: 0 auto;
+}
