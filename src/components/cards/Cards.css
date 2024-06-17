@@ -1,0 +1,31 @@
+.gallery {
+    background-color: #F6F6F6;
+    max-width: 1240px;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+.gallery-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding:40px;
+    margin-top:40px;
+    margin-bottom:40px;
+    gap:60px;
+
+}
+
+.location {
+    background-color: #FF6060;
+    color:#FFFFFF;
+    width:340px;
+    height:340px;
+    border-radius: 10px;
+}
+
+.location p {
+    font-family: Montserrat;
+    font-size:18px;
+    padding-left:10px;
+}

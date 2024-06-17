@@ -1,8 +1,12 @@
-import Header from '../components/headerpage/Header.js';
+import Header from '../components/headerpage/Header';
+import Footer from '../components/footerpage/Footer';
 
 function About () {
     return (
-        <Header />
+        <div>
+            <Header />
+            <Footer />
+        </div>
     )
 }
 
