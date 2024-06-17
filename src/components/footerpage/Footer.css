@@ -1,9 +1,20 @@
 .kasa-footer {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: black;
     color: white;
+    font-family:Montserrat;
+    font-size:24px;
+    padding-bottom:10px;
 }
 
 .footer-logo {
-    color:white;
+    width: 150px; 
+    height: auto;
+    object-fit: cover;
+    padding-top:50px;
+    padding-bottom:10px;
 }
 
